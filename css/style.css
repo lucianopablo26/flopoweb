@@ -98,4 +98,16 @@ nav #toggle, nav label{
 .card-title{
     font-size: 25px;
 }
+.checklist{
+    text-align: center;
+    font-size: 15px;
+}
 
+footer{
+    background-color: black;
+    display: flex;
+    color: #DCDDB6;
+    text-align: center;
+
+
+}
